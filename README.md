@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I love numbers!  I'm a BYU student studying statistics.
+
 <!--
 **mokuda2/mokuda2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
